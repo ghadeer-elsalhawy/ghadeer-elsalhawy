@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="183" src="https://i.pinimg.com/736x/42/67/af/4267afb75b6e95c548156d19c8f6323e.jpg"  />
+<img align="left" height="203" src="https://i.pinimg.com/736x/42/67/af/4267afb75b6e95c548156d19c8f6323e.jpg"  />
 
 ###
 
-<h3 align="left">I am Ghadeer Elsalhawy, a Site Reliability Engineer from Egypt.  Currently working as a Teaching Assistant at Tanta University.</h3>
+<h3 align="center">I am Ghadeer Elsalhawy, a Site Reliability Engineer from Egypt.  Currently working as a Teaching Assistant at Tanta University.</h3>
 
 ###
 
