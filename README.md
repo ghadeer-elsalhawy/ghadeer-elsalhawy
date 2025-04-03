@@ -23,7 +23,7 @@
   <a href="https://x.com/Gelsalhawy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
   </a>
-  <a href="ghadeer.elsalhawy@gmail.com" target="_blank">
+  <a href="mailto:ghadeer.elsalhawy@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
   </a>
 </div>
