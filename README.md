@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">I am Ghadeer Elsalhawy, a Site Reliability Engineer from Egypt.  Currently working as a Teaching Assistant at Tanta University.</h3>
+<h3 align="center">I am Ghadeer Elsalhawy, a Site Reliability Engineer from Egypt. Currently contributing to the Antrea Project.</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/aws.svg" height="40" alt="aws logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="14" />
