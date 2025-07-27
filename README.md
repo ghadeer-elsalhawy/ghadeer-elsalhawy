@@ -6,7 +6,12 @@
 
 ###
 
-<h3 align="center">I am Ghadeer Elsalhawy, a Site Reliability Engineer from Egypt. Currently contributing to the Antrea Project.</h3>
+<h3 align="center">I am Ghadeer Elsalhawy, I am a: </h3>
+<ul align="center"> 
+  <li> Site Reliability Engineer from Egypt.</li>
+  <li> Software Engineer Mentee at CNCF Antrea.</li>
+  <li> Cyber Security Fellow at Correlation One.</li>
+</ul>
 
 ###
 
@@ -56,6 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo"  />
 </div>
 
 ###
