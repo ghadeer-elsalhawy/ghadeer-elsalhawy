@@ -9,8 +9,9 @@
 <h3 align="center">I am Ghadeer Elsalhawy, I am a: </h3>
 <ul align="center"> 
   <li> Site Reliability Engineer from Egypt.</li>
-  <li> Software Engineer Mentee at CNCF Antrea.</li>
+  <li> LFX'25 Mentee at CNCF Antrea.</li>
   <li> Cyber Security Fellow at Correlation One.</li>
+  <li> Currently working as a Teaching Assistant at Tanta University</li>
 </ul>
 
 ###
